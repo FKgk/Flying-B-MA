@@ -1,0 +1,20 @@
+Engine/Binaries/Win64/UE4Game.exe	2018-10-31T17:12:01.633Z
+Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2018-10-31T17:11:09.074Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2018-10-31T17:11:19.812Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2018-10-31T17:11:19.884Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2018-10-31T17:11:19.437Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2018-10-31T17:11:19.357Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll	2018-10-31T17:11:18.792Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_ClothingPROFILE_x64.dll	2018-10-31T17:11:15.580Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_LegacyPROFILE_x64.dll	2018-10-31T17:11:16.863Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFrameworkPROFILE_x64.dll	2018-10-31T17:11:17.453Z
+Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll	2018-10-31T17:11:27.490Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2018-10-31T17:11:08.503Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.dll	2018-10-31T17:11:17.688Z
+Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_11/Win64/openvr_api.dll	2018-10-31T17:11:09.424Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2018-10-31T17:11:09.152Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2018-10-31T17:11:27.380Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2018-10-31T17:11:27.399Z
+Project/Content/Movies/advertisement.mp4	2018-11-21T16:49:12.879Z
+Project/Content/Movies/OBT TV CF.wav	2018-11-23T04:06:56.736Z
+Project.exe	2018-11-23T15:41:55.526Z
