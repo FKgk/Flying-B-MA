@@ -6,26 +6,26 @@
 
 #*/Build
 *.unrealengine
+.unrealengine
 */Binaries
-
+*/Build
+/Build
 */DerivedDataCache
 
 */Intermediate
 
 */Saved
-
+/Saved/
 ############
 
 #Asset Files#
 
 ###########
 
-*/Content/AssetFolderName1
-
-*/Content/AssetFolderName2
-
-*/Content/AssetFolderName3
-
+*/Content/FantasyOrchestral
+/Content/FantasyOrchestral
+*/Content/movies
+/Content/movies
 ##################
 
 #VS Generated Files#
@@ -33,3 +33,5 @@
 #################
 
 */.vs
+*/Content/movies
+*/Contetnt/FantasyOrchestral
