@@ -13,6 +13,7 @@
 
 시연 동영상 : https://youtu.be/i6XWGguKZM8
 
+프로젝트 파일 및 실행파일 : https://1drv.ms/f/s!AtsqcOwlyTnliFXGhrzPPq0G6l2a 
 
 개발 기간 : 2018-11-12 ~ 2018-11-23 (12일) <br>
 개발 인원 : 3명 (개발자 1명, 기획자 1명, 디자이너 1명)  <br>
